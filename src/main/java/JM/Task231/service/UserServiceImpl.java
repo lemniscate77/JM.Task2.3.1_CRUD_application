@@ -1,5 +1,7 @@
 package JM.Task231.service;
 
+ /* версия 2.0 */
+
 import JM.Task231.dao.UserDAO;
 import JM.Task231.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
